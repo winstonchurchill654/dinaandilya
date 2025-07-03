@@ -1,0 +1,1 @@
+"homepage": "https://winstonchurchill654.github.io/dinaandilya"// вставь сюда свой компонент HomePage
