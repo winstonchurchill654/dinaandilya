@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/dinaandilya/static/css/main.90085a03.css",
+    "main.js": "/dinaandilya/static/js/main.5ae62079.js",
+    "static/media/great-vibes-latin-ext-400-normal.woff2": "/dinaandilya/static/media/great-vibes-latin-ext-400-normal.771ce16cad228d2b7332.woff2",
+    "static/media/great-vibes-latin-ext-400-normal.woff": "/dinaandilya/static/media/great-vibes-latin-ext-400-normal.63d8b0f73ac45e775d66.woff",
+    "static/media/tinos-latin-ext-400-normal.woff2": "/dinaandilya/static/media/tinos-latin-ext-400-normal.c72a12010f00c9b23f7d.woff2",
+    "static/media/great-vibes-cyrillic-400-normal.woff2": "/dinaandilya/static/media/great-vibes-cyrillic-400-normal.3591083f90922b3d6ca3.woff2",
+    "static/media/great-vibes-latin-400-normal.woff2": "/dinaandilya/static/media/great-vibes-latin-400-normal.085bfe0999c1ce7369e0.woff2",
+    "static/media/great-vibes-cyrillic-400-normal.woff": "/dinaandilya/static/media/great-vibes-cyrillic-400-normal.679aedcd74b6226d43b6.woff",
+    "static/media/great-vibes-latin-400-normal.woff": "/dinaandilya/static/media/great-vibes-latin-400-normal.01d158593352164f1ea3.woff",
+    "static/media/tinos-latin-400-normal.woff2": "/dinaandilya/static/media/tinos-latin-400-normal.cd13784a194d9cac678b.woff2",
+    "static/media/tinos-cyrillic-ext-400-normal.woff2": "/dinaandilya/static/media/tinos-cyrillic-ext-400-normal.28dfaf24e8a8a10c86c3.woff2",
+    "static/media/tinos-latin-ext-400-normal.woff": "/dinaandilya/static/media/tinos-latin-ext-400-normal.84fa7d0ae098aa411342.woff",
+    "static/media/tinos-greek-400-normal.woff2": "/dinaandilya/static/media/tinos-greek-400-normal.842fee30f1ac1a089189.woff2",
+    "static/media/tinos-cyrillic-400-normal.woff2": "/dinaandilya/static/media/tinos-cyrillic-400-normal.2b8df365786042752e32.woff2",
+    "static/media/tinos-hebrew-400-normal.woff2": "/dinaandilya/static/media/tinos-hebrew-400-normal.676cfac4df142cb5424f.woff2",
+    "static/media/tinos-cyrillic-ext-400-normal.woff": "/dinaandilya/static/media/tinos-cyrillic-ext-400-normal.f6c8d0b59acb55cec051.woff",
+    "static/media/tinos-latin-400-normal.woff": "/dinaandilya/static/media/tinos-latin-400-normal.41219794178a5d060730.woff",
+    "static/media/tinos-greek-ext-400-normal.woff2": "/dinaandilya/static/media/tinos-greek-ext-400-normal.9c8fd0eb62ecdbaef52a.woff2",
+    "static/media/great-vibes-vietnamese-400-normal.woff2": "/dinaandilya/static/media/great-vibes-vietnamese-400-normal.ff4e03fe67dded1f531a.woff2",
+    "static/media/tinos-hebrew-400-normal.woff": "/dinaandilya/static/media/tinos-hebrew-400-normal.300f8baf3ffd6765adaa.woff",
+    "static/media/tinos-greek-400-normal.woff": "/dinaandilya/static/media/tinos-greek-400-normal.3832e86c991a0c8c1edc.woff",
+    "static/media/tinos-vietnamese-400-normal.woff2": "/dinaandilya/static/media/tinos-vietnamese-400-normal.5b7a51b1ea75afd351a0.woff2",
+    "static/media/great-vibes-vietnamese-400-normal.woff": "/dinaandilya/static/media/great-vibes-vietnamese-400-normal.2a17a912d42039b5d9fe.woff",
+    "static/media/tinos-cyrillic-400-normal.woff": "/dinaandilya/static/media/tinos-cyrillic-400-normal.5d8dd82c0c5c71db6e2f.woff",
+    "static/media/tinos-greek-ext-400-normal.woff": "/dinaandilya/static/media/tinos-greek-ext-400-normal.9b7d9ee6a188e9e08d6c.woff",
+    "static/media/tinos-vietnamese-400-normal.woff": "/dinaandilya/static/media/tinos-vietnamese-400-normal.d37c3532e5d3ab9b143e.woff",
+    "static/media/great-vibes-cyrillic-ext-400-normal.woff2": "/dinaandilya/static/media/great-vibes-cyrillic-ext-400-normal.db6c82acfc434206a15d.woff2",
+    "static/media/great-vibes-greek-ext-400-normal.woff2": "/dinaandilya/static/media/great-vibes-greek-ext-400-normal.6a9fd7a6c7d570ba975b.woff2",
+    "static/media/great-vibes-cyrillic-ext-400-normal.woff": "/dinaandilya/static/media/great-vibes-cyrillic-ext-400-normal.32f279aa3ab0c5c06594.woff",
+    "static/media/great-vibes-greek-ext-400-normal.woff": "/dinaandilya/static/media/great-vibes-greek-ext-400-normal.452b2fdf08fb5a476c65.woff",
+    "index.html": "/dinaandilya/index.html",
+    "main.90085a03.css.map": "/dinaandilya/static/css/main.90085a03.css.map",
+    "main.5ae62079.js.map": "/dinaandilya/static/js/main.5ae62079.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90085a03.css",
+    "static/js/main.5ae62079.js"
+  ]
+}
