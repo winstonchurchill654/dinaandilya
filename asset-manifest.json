@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dinaandilya/static/css/main.90085a03.css",
-    "main.js": "/dinaandilya/static/js/main.e94ffd8b.js",
+    "main.css": "/dinaandilya/static/css/main.736b69bd.css",
+    "main.js": "/dinaandilya/static/js/main.6def8314.js",
     "static/media/great-vibes-latin-ext-400-normal.woff2": "/dinaandilya/static/media/great-vibes-latin-ext-400-normal.771ce16cad228d2b7332.woff2",
     "static/media/great-vibes-latin-ext-400-normal.woff": "/dinaandilya/static/media/great-vibes-latin-ext-400-normal.63d8b0f73ac45e775d66.woff",
     "static/media/tinos-latin-ext-400-normal.woff2": "/dinaandilya/static/media/tinos-latin-ext-400-normal.c72a12010f00c9b23f7d.woff2",
@@ -31,11 +31,11 @@
     "static/media/great-vibes-cyrillic-ext-400-normal.woff": "/dinaandilya/static/media/great-vibes-cyrillic-ext-400-normal.32f279aa3ab0c5c06594.woff",
     "static/media/great-vibes-greek-ext-400-normal.woff": "/dinaandilya/static/media/great-vibes-greek-ext-400-normal.452b2fdf08fb5a476c65.woff",
     "index.html": "/dinaandilya/index.html",
-    "main.90085a03.css.map": "/dinaandilya/static/css/main.90085a03.css.map",
-    "main.e94ffd8b.js.map": "/dinaandilya/static/js/main.e94ffd8b.js.map"
+    "main.736b69bd.css.map": "/dinaandilya/static/css/main.736b69bd.css.map",
+    "main.6def8314.js.map": "/dinaandilya/static/js/main.6def8314.js.map"
   },
   "entrypoints": [
-    "static/css/main.90085a03.css",
-    "static/js/main.e94ffd8b.js"
+    "static/css/main.736b69bd.css",
+    "static/js/main.6def8314.js"
   ]
 }
