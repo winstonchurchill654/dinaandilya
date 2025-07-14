@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dinaandilya/static/css/main.961fff9b.css",
-    "main.js": "/dinaandilya/static/js/main.cd20b22c.js",
+    "main.css": "/dinaandilya/static/css/main.da269aa9.css",
+    "main.js": "/dinaandilya/static/js/main.706a031a.js",
     "static/media/great-vibes-latin-ext-400-normal.woff2": "/dinaandilya/static/media/great-vibes-latin-ext-400-normal.771ce16cad228d2b7332.woff2",
     "static/media/great-vibes-latin-ext-400-normal.woff": "/dinaandilya/static/media/great-vibes-latin-ext-400-normal.63d8b0f73ac45e775d66.woff",
     "static/media/tinos-latin-ext-400-normal.woff2": "/dinaandilya/static/media/tinos-latin-ext-400-normal.c72a12010f00c9b23f7d.woff2",
@@ -14,11 +14,15 @@
     "static/media/cormorant-garamond-latin-ext-400-normal.woff": "/dinaandilya/static/media/cormorant-garamond-latin-ext-400-normal.c6f5bd033232a7a484f4.woff",
     "static/media/tinos-cyrillic-ext-400-normal.woff2": "/dinaandilya/static/media/tinos-cyrillic-ext-400-normal.28dfaf24e8a8a10c86c3.woff2",
     "static/media/tinos-latin-ext-400-normal.woff": "/dinaandilya/static/media/tinos-latin-ext-400-normal.84fa7d0ae098aa411342.woff",
+    "static/media/crimson-text-latin-400-normal.woff2": "/dinaandilya/static/media/crimson-text-latin-400-normal.f002dfeee9542c98fae3.woff2",
     "static/media/cormorant-garamond-latin-400-normal.woff2": "/dinaandilya/static/media/cormorant-garamond-latin-400-normal.ac84ff9433bbad944fbb.woff2",
+    "static/media/crimson-text-latin-400-normal.woff": "/dinaandilya/static/media/crimson-text-latin-400-normal.3bacc6d0e498efd80120.woff",
+    "static/media/crimson-text-latin-ext-400-normal.woff2": "/dinaandilya/static/media/crimson-text-latin-ext-400-normal.64ad5fca92e7862b628a.woff2",
     "static/media/cormorant-garamond-latin-ext-400-normal.woff2": "/dinaandilya/static/media/cormorant-garamond-latin-ext-400-normal.490f97e69ffe065e0a3b.woff2",
     "static/media/tinos-greek-400-normal.woff2": "/dinaandilya/static/media/tinos-greek-400-normal.842fee30f1ac1a089189.woff2",
     "static/media/tinos-cyrillic-400-normal.woff2": "/dinaandilya/static/media/tinos-cyrillic-400-normal.2b8df365786042752e32.woff2",
     "static/media/cormorant-garamond-cyrillic-ext-400-normal.woff": "/dinaandilya/static/media/cormorant-garamond-cyrillic-ext-400-normal.7210abad3c9fa5756f38.woff",
+    "static/media/crimson-text-latin-ext-400-normal.woff": "/dinaandilya/static/media/crimson-text-latin-ext-400-normal.14e65fd31f89e0550cb4.woff",
     "static/media/tinos-hebrew-400-normal.woff2": "/dinaandilya/static/media/tinos-hebrew-400-normal.676cfac4df142cb5424f.woff2",
     "static/media/cormorant-garamond-cyrillic-400-normal.woff": "/dinaandilya/static/media/cormorant-garamond-cyrillic-400-normal.4d9ac86d099c09db752a.woff",
     "static/media/tinos-cyrillic-ext-400-normal.woff": "/dinaandilya/static/media/tinos-cyrillic-ext-400-normal.f6c8d0b59acb55cec051.woff",
@@ -33,6 +37,8 @@
     "static/media/great-vibes-vietnamese-400-normal.woff": "/dinaandilya/static/media/great-vibes-vietnamese-400-normal.2a17a912d42039b5d9fe.woff",
     "static/media/cormorant-garamond-vietnamese-400-normal.woff": "/dinaandilya/static/media/cormorant-garamond-vietnamese-400-normal.09a0973b7f947dc9d5d5.woff",
     "static/media/tinos-cyrillic-400-normal.woff": "/dinaandilya/static/media/tinos-cyrillic-400-normal.5d8dd82c0c5c71db6e2f.woff",
+    "static/media/crimson-text-vietnamese-400-normal.woff2": "/dinaandilya/static/media/crimson-text-vietnamese-400-normal.0849a135132c084c5982.woff2",
+    "static/media/crimson-text-vietnamese-400-normal.woff": "/dinaandilya/static/media/crimson-text-vietnamese-400-normal.0e8b37e4855ad8841f9c.woff",
     "static/media/cormorant-garamond-vietnamese-400-normal.woff2": "/dinaandilya/static/media/cormorant-garamond-vietnamese-400-normal.1fc53f136f0a5a69fb58.woff2",
     "static/media/tinos-greek-ext-400-normal.woff": "/dinaandilya/static/media/tinos-greek-ext-400-normal.9b7d9ee6a188e9e08d6c.woff",
     "static/media/tinos-vietnamese-400-normal.woff": "/dinaandilya/static/media/tinos-vietnamese-400-normal.d37c3532e5d3ab9b143e.woff",
@@ -41,11 +47,11 @@
     "static/media/great-vibes-cyrillic-ext-400-normal.woff": "/dinaandilya/static/media/great-vibes-cyrillic-ext-400-normal.32f279aa3ab0c5c06594.woff",
     "static/media/great-vibes-greek-ext-400-normal.woff": "/dinaandilya/static/media/great-vibes-greek-ext-400-normal.452b2fdf08fb5a476c65.woff",
     "index.html": "/dinaandilya/index.html",
-    "main.961fff9b.css.map": "/dinaandilya/static/css/main.961fff9b.css.map",
-    "main.cd20b22c.js.map": "/dinaandilya/static/js/main.cd20b22c.js.map"
+    "main.da269aa9.css.map": "/dinaandilya/static/css/main.da269aa9.css.map",
+    "main.706a031a.js.map": "/dinaandilya/static/js/main.706a031a.js.map"
   },
   "entrypoints": [
-    "static/css/main.961fff9b.css",
-    "static/js/main.cd20b22c.js"
+    "static/css/main.da269aa9.css",
+    "static/js/main.706a031a.js"
   ]
 }
